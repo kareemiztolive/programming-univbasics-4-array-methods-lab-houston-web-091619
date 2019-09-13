@@ -14,6 +14,7 @@ def using_reverse(array)
 
 def using_first(array)
   
+  
 
 end
 
