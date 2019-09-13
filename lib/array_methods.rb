@@ -10,11 +10,10 @@ def using_sort(array)
 def using_reverse(array)
    array = ["wow", "I", "am", "really", "learning", "arrays!"]
    array.reverse
-  
-
-end
+  end
 
 def using_first(array)
+  
 
 end
 
